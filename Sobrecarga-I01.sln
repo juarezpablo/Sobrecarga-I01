@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga-I01", "Sobrecarga-I01\Sobrecarga-I01.csproj", "{C49CE3B2-DBF8-4A15-9DA0-949B963F22AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{C740BF71-2EB7-4154-869C-1E4599130F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49CE3B2-DBF8-4A15-9DA0-949B963F22AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49CE3B2-DBF8-4A15-9DA0-949B963F22AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49CE3B2-DBF8-4A15-9DA0-949B963F22AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49CE3B2-DBF8-4A15-9DA0-949B963F22AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C740BF71-2EB7-4154-869C-1E4599130F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C740BF71-2EB7-4154-869C-1E4599130F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C740BF71-2EB7-4154-869C-1E4599130F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C740BF71-2EB7-4154-869C-1E4599130F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764880A8-93B7-4A69-ABED-89C9B72D800D}
+	EndGlobalSection
+EndGlobal
